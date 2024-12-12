@@ -2,11 +2,11 @@
 :icons: font
 :MoSCoW: https://fr.wikipedia.org/wiki/M%C3%A9thode_MoSCoW[MoSCoW]
 
-Ce dépôt concerne les rendus de mailto:A_changer@etu.univ-tlse2.fr[Jonh Doe].
+Ce dépôt concerne les rendus de mailto:A_changer@etu.univ-tlse2.fr[eliot desportes].
 
 == TP1
 
-.Exemple de code
+
 [source,java]
 ---
      @Given("today is Sunday")
@@ -36,7 +36,6 @@ Ce dépôt concerne les rendus de mailto:A_changer@etu.univ-tlse2.fr[Jonh Doe].
     }
 ---
 
-.Exemple d'image insérée en asciidoc
 image::Test_TP1.PNG[width=80%]
 
 == TP2...
